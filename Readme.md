@@ -11,7 +11,7 @@ Recreate the lay-out!
 
 ## Layout
 
-![Layout](Images/exercise-1.png)
+![Layout](https://github.com/YelenaMerzlyakova/Frameworking-FTW/blob/master/exercise-1.png)
 
 ## Choice of Framework
 
@@ -35,6 +35,9 @@ I'm a fangirl for bootstrap! :heart:
 
 ## Result
 
+![Layout](https://github.com/YelenaMerzlyakova/Frameworking-FTW/blob/master/frameworking1.png)
+
+![Layout](https://github.com/YelenaMerzlyakova/Frameworking-FTW/blob/master/frameworking2.png)
 
 
 
